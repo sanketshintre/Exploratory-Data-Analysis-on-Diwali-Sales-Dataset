@@ -34,7 +34,8 @@ df.head()
 
 
 df.info()
-![Screenshot (7)](https://github.com/sanketshintre/Exploratory-Data-Analysis-on-Diwali-Sales-Dataset/assets/123626990/65e9d7e2-e269-4b83-a758-104cf003a760)
+![Screenshot (33)](https://github.com/sanketshintre/Exploratory-Data-Analysis-on-Diwali-Sales-Dataset/assets/123626990/8d6ed2e9-fe32-428f-862e-bf802075778d)
+
 
 # Column Non-Null Count Dtype
 --- ------ -------------- -----
